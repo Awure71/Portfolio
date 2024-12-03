@@ -24,7 +24,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](https://github.com/Awure71/Portfolio/tree/148462b440f587b0d898fc83c9be4deddefd3930/asset)
+![image](asset)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 

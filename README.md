@@ -1,13 +1,15 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Tax Consultant | Data Analyst
+Strategic thinker with expertise in tax advisory and data-driven decision-making. Skilled in leveraging advanced analytics to optimize tax planning, ensure compliance, and uncover actionable insights. Proficient in data visualization, predictive modeling, and regulatory research, delivering solutions that bridge finance and technology. Passionate about simplifying complex financial data to empower businesses and enhance operational efficiency.
+
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Managing Partner and a Data Analyst, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
